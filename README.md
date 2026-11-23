@@ -7,6 +7,9 @@
 
 <!-- Social, Community & Sponsoring Badges -->
 <p align="center">
+  <a href="https://goover.dev" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Website-goover.dev-38bdf8?style=for-the-badge&logo=google-chrome&logoColor=white" alt="goover.dev Website" />
+  </a>
   <a href="https://discord.goover.dev" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Discord-Join_Community-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Community" />
   </a>
@@ -84,6 +87,8 @@ What started as a *"hobby coder with no skill"* grew into building and maintaini
       <h3>🌌 Star Citizen &amp; PC Gaming Utilities</h3>
       <ul>
         <li><a href="https://github.com/gOOvER/SCLogMate"><b>SCLogMate</b></a> — Real-time <code>Game.log</code> analyzer for trades, missions, ships &amp; crew.</li>
+        <li><a href="https://github.com/gOOvER/QuantumWake"><b>QuantumWake</b></a> — Second-screen dashboard, overlay &amp; 'verse map driven by <code>Game.log</code>.</li>
+        <li><a href="https://github.com/gOOvER/NexusApp"><b>NexusApp</b></a> — Offline mining &amp; hauling companion with scan decoding &amp; refinery tracking.</li>
         <li><a href="https://github.com/gOOvER/DLSS-Manager"><b>DLSS-Manager</b></a> &amp; <a href="https://github.com/gOOvER/DLSS-Manager-OnlineDB"><b>OnlineDB</b></a> — Detect and upgrade DLSS / FSR / XeSS across games.</li>
       </ul>
     </td>
@@ -93,6 +98,8 @@ What started as a *"hobby coder with no skill"* grew into building and maintaini
         <li><a href="https://github.com/gOOvER/hashsolo"><b>HashSolo</b></a> &amp; <a href="https://github.com/gOOvER/hashsolo-ui"><b>hashsolo-ui</b></a> — Hardened, high-performance Bitcoin Solo Mining Pool (Stratum V1) &amp; Web UI (<a href="https://hashsolo.goover.dev">live pool</a>).</li>
         <li><a href="https://github.com/gOOvER/GuildGreet-Extended"><b>GuildGreet-Extended</b></a> — Guild greeting &amp; roster management addon for WoW.</li>
         <li><a href="https://github.com/gOOvER/Name2Chat"><b>Name2Chat</b></a> &amp; <a href="https://github.com/gOOvER/GGSocialState"><b>GGSocialState</b></a> — Chat identity &amp; LDB broker social display addons.</li>
+        <li><a href="https://github.com/gOOvER/GumCord"><b>GumCord</b></a> — Discord bot for Gumroad license verification &amp; role sync.</li>
+        <li><a href="https://github.com/gOOvER/ispconfig3-helper-Scripts"><b>ispconfig3-helper-Scripts</b></a> — Server administration &amp; ISPConfig automation scripts.</li>
       </ul>
     </td>
   </tr>

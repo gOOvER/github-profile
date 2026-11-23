@@ -8,6 +8,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [Unreleased]
 
 ### Changed
+- Cleaned up duplicate **About Me** lines and duplicate **Featured Projects** heading in `README.md`.
 - Redesigned `assets/banner.svg` with a cleaner TokyoNight bento layout, dot-matrix texture, `BUILDING • AT` status indicator, and crisp SVG accent pills.
 - Cleaned up `README.md` by removing duplicate `dracula` summary card embeds, structuring **About Me** into a 2x2 focus grid, and organizing **Tech Stack & Tools** into a categorized table.
 - Updated **About Me** and **Featured Projects & Ecosystems** in `README.md`: added **HashSolo** (`hashsolo` & `hashsolo-ui`) and removed CubeCoders AMP, QuantumWake, NexusApp, GumCord, and ispconfig3-helper-Scripts.
